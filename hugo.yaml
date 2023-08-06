@@ -55,7 +55,7 @@ params:
   p5:
     heading: "Stay Up to Date"
     content:
-      - text: "Sagittis scelerisque nulla cursus in enim consectetur quam. Dictum urna sed consectetur neque tristique pellentesque."
+      - text: "Subscribe to my newsletter to stay up to date with my songs and news"
     action: "#"
     label: "Email address"
     placeholder: "Enter your email"
@@ -78,6 +78,10 @@ params:
 
 menu:
   main:
+    - identifier: songs
+      name: Songs
+      url: /categories/blog/
+      weight: 20
     - identifier: Sheet Music
       name: Sheet Music
       url: /sheetmusic/
@@ -119,8 +123,8 @@ menu:
       name: Sheet Music
       url: /sheetmusic/
       weight: 10
-    - identifier: songs
-      name: songs
+    - identifier: Songs
+      name: Songs
       url: /categories/blog/
       weight: 20
     - identifier: contact
