@@ -15,7 +15,7 @@
                     </p>
                 </div>
                 <div class="col-span-6">
-                    {{ $hero := resources.GetMatch "images/pages/tailbliss-rocket-indigo.png" }}
+                    {{ $hero := resources.GetMatch "images/pages/tastierista.jpg" }}
 
                     {{ $thumb := ($hero.Fill "400x400 webp q90") }}
                     {{ $large := ($hero.Fill "576x576 webp q90") }}
@@ -68,20 +68,12 @@
     </div>
 
     <!-- Sponsors section -->
-    <div class="max-w-md px-4 mx-auto md:pt-24 md:pb-16 sm:max-w-3xl sm:px-6 lg:max-w-7xl lg:px-8">
-        <div class="lg:grid lg:grid-cols-2 lg:items-center lg:gap-24">
-            <div class="mt-12 grid grid-cols-2 gap-0.5 md:grid-cols-3 lg:mt-0 lg:grid-cols-2">
-                {{ range .Site.Params.P3.Logos }}
-                <div class="flex justify-center col-span-1 px-8 py-8 bg-gray-50 dark:bg-gray-900/10">
-                    {{ if .image }}
-                    {{ $sponsor := resources.Get .image }}
-                    <img src="{{ $sponsor.RelPermalink }}" class="max-h-12 dark:invert" alt="{{ .alt }}" loading="lazy" />
-                    {{ else }}
-                    {{ $sponsor := resources.Get "images/global/sample-logo.svg" }}
-                    <img src="{{ $sponsor.RelPermalink }}" class="max-h-12 dark:invert" alt="{{ .alt }}" loading="lazy" />
-                    {{ end }}
-                </div>
-                {{ end }}
+    <div class=" bg-gray-200 dark:bg-gray-900/50 py-4 px-4 mx-auto pt-24 pb-16 sm:max-w-3xl sm:px-6 lg:max-w-7xl lg:px-7">
+        <div class="grid grid-cols-2 items-center ">
+            <div class="mt-12 mx-12 px-8 ">
+                {{ $sponsor := resources.GetMatch "images/global/vecchie-note-musicali.jpg" }}
+        
+                <img src="{{ $sponsor.RelPermalink }}" width="{{ $sponsor.Width }}" height="{{ $sponsor.Height }}" alt="Sheet Music photo" class="object-scale-down w-20 rounded-lg" alt="" loading="lazy" />
             </div>
             <div>
                 <h2 class="text-3xl font-bold tracking-tight text-gray-900 dark:text-gray-50 sm:text-4xl">

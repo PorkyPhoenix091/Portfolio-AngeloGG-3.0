@@ -41,7 +41,7 @@ params:
         url: "#"
     logos:
       - identifier: a
-        image: "images/global/sample-logo.svg"
+        image: "images/global/vecchie-note-musicali.jpg"
         alt: "a"
       - identifier: b
       - identifier: c
