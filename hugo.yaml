@@ -14,6 +14,7 @@ markup:
   defaultMarkdownHandler: goldmark
 params:
   author: Anthony Gerardo Giuliano
+  character: Angelo Nicola Giuliano
   authorimage: ../assets/images/global/author.webp
   og_image: /images/tailbliss-cover.png
   moto: "Pianist, Composer"
