@@ -123,6 +123,10 @@ menu:
       name: Sheet Music
       url: /sheetmusic/
       weight: 10
+    - identifier: Cookie Policy
+      name: Cookie Policy
+      url: /CookieDeclaration
+      weight: 30
     - identifier: Songs
       name: Songs
       url: /categories/blog/
