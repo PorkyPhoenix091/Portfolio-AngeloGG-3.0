@@ -10,7 +10,7 @@ description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
   lobortis rhoncus.
 author: Angelo Nicola Giuliano
 date: 2023-08-09T16:39:53.116Z
-featured_image: /images/uploads/ggimglogo.png
+featured_image: ../images/uploads/ggimglogo.png
 authorimage: ../assets/images/global/author.webp
 language: en
 tags: blog
