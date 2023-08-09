@@ -67,10 +67,10 @@ params:
       url: 'https://open.spotify.com/artist/7ITIcFJcB4VqctB8SI5YkK'
     facebook:
       enabled: true
-      url: 'https://facebook.com/nusserstudios'
+      url: 'https://www.facebook.com/diapasonweb'
     instagram:
       enabled: true
-      url: 'https://instagram.com/nusserstudios'
+      url: 'https://www.instagram.com/angelonicolagiuliano/'
     twitter:
       enabled: true
       url: '@nusserstudios'
@@ -167,4 +167,4 @@ privacy:
 module:
   hugoVersion:
     extended: true
-    min: "0.104.0"
+    min: "0.116.1"
