@@ -83,6 +83,10 @@ menu:
       name: Songs
       url: /categories/blog/
       weight: 20
+    - identifier: news
+      name: News
+      url: /categories/news/
+      weight: 30
     - identifier: Sheet Music
       name: Sheet Music
       url: /sheetmusic/
@@ -124,18 +128,22 @@ menu:
       name: Sheet Music
       url: /sheetmusic/
       weight: 10
+    - identifier: news
+      name: News
+      url: /categories/news/
+      weight: 20
     - identifier: Cookie Policy
       name: Cookie Policy
       url: /CookieDeclaration
-      weight: 30
+      weight: 50
     - identifier: Songs
       name: Songs
       url: /categories/blog/
-      weight: 20
+      weight: 30
     - identifier: contact
       name: Contact
       url: /contact/
-      weight: 50
+      weight: 40
 
 markup:
   goldmark:
