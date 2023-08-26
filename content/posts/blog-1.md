@@ -4,7 +4,7 @@ title: Overland
 summary: New release!
 author: Angelo Nicola Giuliano
 tags: blog
-date: 2022-05-18T11:10:36+08:00
+date: 2023-08-26T20:06:24.293Z
 featured_image: ../assets/images/featured/overland-cover.png
 authorimage: ../assets/images/global/author.webp
 language: en
