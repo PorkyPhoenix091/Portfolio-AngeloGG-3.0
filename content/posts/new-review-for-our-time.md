@@ -3,8 +3,8 @@ layout: blog
 title: Memories of Paris
 summary: New release
 author: Angelo Nicola Giuliano
-tags: news
-categories: news
+tags: blog
+categories: blog
 date: 2023-08-11T15:59:19.282Z
 featured_image: ../assets/images/featured/memories-of-paris.png
 ---
