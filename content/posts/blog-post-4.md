@@ -1,7 +1,7 @@
 ---
 draft: false
 title: Tetraktys
-summary: Tetraktys from my EP "The LIght of Life"
+summary: Tetraktys from my EP "The Light of Life"
 author: Angelo Nicola Giuliano
 tags: blog
 date: 2022-12-18T11:10:36+08:00
