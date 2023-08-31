@@ -21,3 +21,9 @@ That's because, he has a remarkable track record of taking listeners on an emoti
 The combination of sounds or instruments provides the audience with a unique listening experience.
 
 While other neoclassical songs are enjoyable to listen to, "The Light of Life" transports you deeply into the producer's world.
+
+https://open.spotify.com/track/6TrG3EPQPauJNy9DcDnISt?si=957c9ac35b9640cf
+
+E﻿P
+
+https://open.spotify.com/album/0frp3lbYls6vDOqnIhqQdB?si=SzfUkAxyTJSsSkJCj8SjIQ
